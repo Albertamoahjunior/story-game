@@ -1,0 +1,27 @@
+The story
+You are a brave adventurer tasked with finding a magical gem that can save your village from a curse.
+You set out on a journey to find the gem. You come across a rickety bridge over a deep ravine.
+What will you do? -- first choice making
+~Cross the bridge
+~Find another way around
+for 1: choose to cross the bridge and fall off. Game Over!
+for 2: You find another way around the ravine and continue the game.
+You come across a river.
+What will you do? ---second choice making
+~Try to swim across
+~Look for another way to cross
+for 1: You drown trying to swim across the river you drown! Game over!
+for 2: You look around and find a boat to cross safely. You continue on your journey
+As you continue your journey, you hear a loud growling noise. As you turn around, you see a large ferocious bear.
+What will you do? --- third choice making
+~ Run as fast as you can
+~ Hide from the bear
+for 1: You run away but get caught up by the bear and eaten. Game over
+for 2: You hide from the bear and wait till it leaves, and you continue the journey
+You get to the location of the gem
+
+
+The project
+-Create a story line which has various outcomes based on user choices.(Maximum of 5 outcomes)
+-Give user the ability to save game progress
+-Create profiles so different players play from their personal profiles.
